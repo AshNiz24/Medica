@@ -1,0 +1,2 @@
+List doctorList;
+List patientList;
